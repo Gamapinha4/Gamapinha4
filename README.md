@@ -24,3 +24,6 @@
 
 ##### Tenho uma paixão pela tecnologia, adoro programar e dar vida aos meus projetos. Além disso, tenho um fascínio pela parte de hardware, explorando seus detalhes e desafios com entusiasmo.
 
+![snake gif](https://github.com/Gamapinha4/Gamapinha4/blob/output/github-contribution-grid-snake.svg)
+
+
