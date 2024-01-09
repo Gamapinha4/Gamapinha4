@@ -24,7 +24,7 @@
   <img align="center" alt="Js" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
-### What I want to learn in the future::
+### What I want to learn in the future:
 
 <div align="left" style="display: inline_block><br/>
   <img align="center" alt="Js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
