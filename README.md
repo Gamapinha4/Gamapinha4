@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<br/>Passionate about technology, <strong>programming and hardware</strong>, my journey in computer engineering is a path of enthusiasm and discoveries. Each project is an opportunity to bring my ideas to life. In a constant quest for knowledge, ,<strong>I see technology as an expression of my creativity and a means of continuous improvement</strong>. <br><br/>
+<br/>Passionate about technology, <strong>programming and hardware</strong>, my journey in computer engineering is a path of enthusiasm and discoveries. Each project is an opportunity to bring my ideas to life. In a constant quest for knowledge, <strong>I see technology as an expression of my creativity and a means of continuous improvement</strong>. <br><br/>
 </p>
 
 
