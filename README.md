@@ -60,6 +60,6 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.m.palmieri40@gmail.com)
 
 
-![](https://komarev.com/ghpvc/?Gamapinha4)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 
