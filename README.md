@@ -60,6 +60,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.m.palmieri40@gmail.com)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gamapinha4&repo=AquaMark)](https://github.com/Gamapinha4/AquaMark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gamapinha4&repo=NameClify)](https://github.com/Gamapinha4/NameClify)
 
 ![](https://komarev.com/ghpvc/?username=gamapinha4&style=flat-square)
 
