@@ -59,7 +59,8 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gamapinha/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.m.palmieri40@gmail.com)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gamapinha4&repo=AquaMark)](https://github.com/Gamapinha4/AquaMark)
 
-![](https://komarev.com/ghpvc/?Gamapinha4&color=green)
+![](https://komarev.com/ghpvc/?username=gamapinha4&style=flat-square)
 
 
