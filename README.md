@@ -60,5 +60,6 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.m.palmieri40@gmail.com)
 
 
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Gamapinha4/count.svg" /></p>
 
 
