@@ -65,6 +65,8 @@
  <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gamapinha4&repo=NameClify&theme=dracula" />
 </div>
 
-![](https://komarev.com/ghpvc/?username=gamapinha4&style=flat-square)
+<div  align="center" style="margin-top:200px">
+  <img width=10% align="center"  src="https://komarev.com/ghpvc/?username=gamapinha4&style=flat-square" />
+</div>
 
 
