@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<br/>Passionate about technology, <strong>programming and hardware</strong>, my journey in computer engineering is a path of enthusiasm and discoveries. Each project is an opportunity to bring my ideas to life. In a constant quest for knowledge, <strong>I see technology as an expression of my creativity and a means of continuous improvement</strong>. <br><br/>
+<br/>Olá! Meu nome é Gabriel Palmieri, um desenvolvedor FullStack dedicado a criar soluções inovadoras e escaláveis. Tenho experiência com diversas tecnologias, como React, Node.js, e bancos de dados como Supabase e Firebase. Estou sempre em busca de novos desafios para aprimorar minhas habilidades.</strong>. <br><br/>
 </p>
 
 
